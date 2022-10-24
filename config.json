@@ -1,19 +1,19 @@
 {
-  "contactOwner": "6283148451522",
-  "ownerNumber": ["6283148451522@s.whatsapp.net"],
-  "botName": "BalZxx BOT-MDོ",
-  "ownerName": "BalZxx",
+  "contactOwner": "6285845575733",
+  "ownerNumber": ["6285845575733@s.whatsapp.net"],
+  "botName": "ALIFZx BOT-MDོ",
+  "ownerName": "ALIF YT",
   "pathimg": "./temp/logo.jpg",
-  "footer": " BalZxx BOT-MDོ © BalZxx",
+  "footer": " ALIF BOT-MDོ © AlifYT",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "083120367046",
-      "atas_nama": "BalZxx"
+      "nomer": "082350060897",
+      "atas_nama": "INDAH"
     },
     "dana": {
-      "nomer": "6283148451522",
-      "atas_nama": "BalZxx"
+      "nomer": "6282350060897",
+      "atas_nama": "aidil"
     }
   }
 }
